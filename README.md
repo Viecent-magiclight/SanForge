@@ -6,6 +6,11 @@ Apple 已停更 Server.app / Xsan Admin，不少制作、后期和媒资环境�
 
 界面为简体中文 / English，可随时切换。
 
+软件试用 7 天授权激活码：
+SF2-T-CF-YZY2HH55Q4547LFFNWJNGPWFSVOHWJRPESYTWGTCSXXSHAJVNJCW2AWVWR75GL32XEPHIBBDYVBBVY7SQPFZ44O5KO4IT43JECVMSBY
+
+欢迎前往 Slack XSAN 频道 `ttps://macadmins.slack.com/archives/C06JWSJ6P` 或在本仓库提交问题反馈。
+开发者将为积极反馈的用户提供软件全量授权。
 ---
 
 ## 能做什么
@@ -65,6 +70,12 @@ SanForge 为专有商业软件。未经版权方书面许可，任何人不得�
 Apple retired Server.app / Xsan Admin years ago, but many shops still run Xsan for shared storage. SanForge is a native macOS app that brings SAN deployment, volumes and LUNs, directory, quotas, access control, and DNS back into one place.
 
 The UI is available in Simplified Chinese and English.
+
+7-day trial activation key for the software:
+`SF2-T-CF-YZY2HH55Q4547LFFNWJNGPWFSVOHWJRPESYTWGTCSXXSHAJVNJCW2AWVWR75GL32XEPHIBBDYVBBVY7SQPFZ44O5KO4IT43JECVMSBY`
+
+Feel free to submit your feedback in the XSAN Slack channel at `ttps://macadmins.slack.com/archives/C06JWSJ6P` or within this repository.
+Developers will offer full software licenses to users who provide valuable feedback.
 
 ## Features
 
