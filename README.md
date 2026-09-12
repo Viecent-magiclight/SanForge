@@ -50,7 +50,7 @@ Apple 已停更 Server.app / Xsan Admin，不少制作、后期和媒资环境�
 
 ## 授权与版权
 
-Copyright © 魔力光年（Magic Light Year）
+Copyright © 魔力光年（Magic Light）
 
 SanForge 为专有商业软件。未经版权方书面许可，任何人不得复制、修改、再分发本软件或其源码，也不得将其用于未经授权的商业用途。
 
@@ -102,7 +102,7 @@ In-app **Help** (Help menu or `⌘?`) covers each pane.
 
 ## License
 
-Copyright © Magic Light Year (魔力光年)
+Copyright © Magic Light(魔力光年)
 
 SanForge is proprietary commercial software. Without written permission you may not copy, modify, or redistribute the software or its source, and you may not use it for unauthorized commercial purposes.
 
